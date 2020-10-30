@@ -1,6 +1,7 @@
-# Deep Learning Coronavirus Cure
+# Drug-Discovery-Using-Deep-Learning-and-The-COVID-19
 
-This is an original submission to the Coronavirus Deep Learning Competition hosted by [Sage Health](https://www.sage-health.org/). The goal is to create a novel small molecule which can bind with the coronavirus, using deep learning techniques for molecule generation and [PyRx](https://pyrx.sourceforge.io/home) to evaluate binding affinities.
+This is an original submission for the Major Project for Bachelor of Technology in Computer Science and Engineering at JNTUHCEJ.
+The goal is to create a novel small molecules with deep learning techniqu which can bind with the coronavirus, using deep learning techniques for molecule generation and [PyRx](https://pyrx.sourceforge.io/home) to evaluate binding affinities.
 
 Binding scores of leading existing drugs (HIV inhibitors) are around -10 to -11 (the more negative the score the better), and around -13 for the drug Remdesivir which recently entered clinical testing.
 
